@@ -8,9 +8,9 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "day_1"
-path = "src/day_1/day_1.rs"
+name = "day_1_1"
+path = "src/day_1/part_1/part_1.rs"
 
 [[bin]]
-name = "day_2"
-path = "src/day_2/day_2.rs"
+name = "day_1_2"
+path = "src/day_1/part_2/part_2.rs"
