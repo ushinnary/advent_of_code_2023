@@ -16,7 +16,7 @@ fn main() {
     .cloned()
     .collect();
 
-    let lines = include_str!("input.txt").lines();
+    let lines = include_str!("../part_1/input.txt").lines();
     let sum = lines
         .into_iter()
         .map(|line| {
